@@ -2,6 +2,7 @@
 
 # ПоЕбитастик
 <img src="./Pics/IMG.jpeg" width="400">
+
 Мештастик нода на модулях e22-900m30s/e22-900m33s и микроконтроллере ESP32-S3-ETH-PoE с питанием по PoE
 
 * ВНИМАНИЕ! Проект находится на стадии тестирования.
@@ -9,6 +10,7 @@
 # Описание платы
 
 <img src="./Pics/EN description.png" width="400">
+
 * Плата сделана из соседнего проекта Ebytastic, имеет дополнительные i/o порты, выходы 5в, 3.3в, антенный разъём SMA F, опциональные подтяжки для i2c датчиков, пины для bme280  и мосфеты для опциональной периферии (не используйте это если ospi включен).
 
 # BOM
@@ -24,4 +26,4 @@
   * [Резисторы 10кОм](https://sl.aliexpress.ru/p?key=ukrTVfk)
 
 # [Сказать мне спасибо](https://pay.cloudtips.ru/p/c197b86d)
-<img src="./Pics/qrCode.png" width="400">
+[<img src="./Pics/qrCode.png" width="400">](https://pay.cloudtips.ru/p/c197b86d)

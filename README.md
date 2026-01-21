@@ -2,6 +2,7 @@
 
 # PoEBytastic
 <img src="./Pics/IMG.jpeg" width="400">
+
 e22-900m30s/e22-900m33s + ESP32-S3-ETH-PoE based meshtastic node with PoE power supply
 
 * WARNING! The project is in the testing phase.
@@ -9,6 +10,7 @@ e22-900m30s/e22-900m33s + ESP32-S3-ETH-PoE based meshtastic node with PoE power 
 # Description of the PCB
 
 <img src="./Pics/EN description.png" width="400">
+
 * PCB based on Ebytastic, has aux i/o, 5v, 3.3v outputs, SMA F antenna connector, optional pullups for i2c sensors, pins for bme280 and mosfets for optional perepherial devices (do not use it if ospi on).
 
 # BOM
@@ -24,4 +26,4 @@ e22-900m30s/e22-900m33s + ESP32-S3-ETH-PoE based meshtastic node with PoE power 
   * [Resistors 10 kOhm](https://sl.aliexpress.ru/p?key=ukrTVfk)
 
 # [You can say thanx to me here](https://pay.cloudtips.ru/p/c197b86d)
-<img src="./Pics/qrCode.png" width="400">
+[<img src="./Pics/qrCode.png" width="400">](https://pay.cloudtips.ru/p/c197b86d)
